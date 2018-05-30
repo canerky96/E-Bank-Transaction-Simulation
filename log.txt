@@ -1,0 +1,33 @@
+0
+1
+A_ID : 2 C_ID : 1235 T_ID : 0 RECV_ID : 6  OPERATION : 3 AMOUNT : 334 SIMULATION DAY : 1
+A_ID : 6 C_ID : 1235 T_ID : 0 RECV_ID : -1  OPERATION : 2 AMOUNT : 587 SIMULATION DAY : 1
+A_ID : 6 C_ID : 1235 T_ID : 0 RECV_ID : -1  OPERATION : 1 AMOUNT : 171 SIMULATION DAY : 1
+A_ID : 2 C_ID : 1235 T_ID : 0 RECV_ID : -1  OPERATION : 1 AMOUNT : 26 SIMULATION DAY : 1
+A_ID : 2 C_ID : 1235 T_ID : 0 RECV_ID : -1  OPERATION : 1 AMOUNT : 23 SIMULATION DAY : 1
+A_ID : 5 C_ID : 1239 T_ID : 0 RECV_ID : -1  OPERATION : 0 AMOUNT : 8250 SIMULATION DAY : 1
+A_ID : 5 C_ID : 1239 T_ID : 0 RECV_ID : -1  OPERATION : 0 AMOUNT : 8250 SIMULATION DAY : 1
+A_ID : 6 C_ID : 1235 T_ID : 1 RECV_ID : -1  OPERATION : 2 AMOUNT : 76 SIMULATION DAY : 1
+A_ID : 5 C_ID : 1239 T_ID : 1 RECV_ID : -1  OPERATION : 1 AMOUNT : 223 SIMULATION DAY : 1
+A_ID : 3 C_ID : 1237 T_ID : 1 RECV_ID : -1  OPERATION : 2 AMOUNT : 287 SIMULATION DAY : 1
+Main completed  customer join thread 0 having a status of 1
+Main completed  customer join thread 1 having a status of 1
+Main completed  customer join thread 2 having a status of 1
+Main completed  customer join thread 3 having a status of 1
+A_ID : 4 C_ID : 1234 T_ID : 1 RECV_ID : 3  OPERATION : 3 AMOUNT : 85 SIMULATION DAY : 1
+A_ID : 4 C_ID : 1234 T_ID : 1 RECV_ID : -1  OPERATION : 0 AMOUNT : 915 SIMULATION DAY : 1
+A_ID : 1 C_ID : 1234 T_ID : 1 RECV_ID : 6  OPERATION : 3 AMOUNT : 258 SIMULATION DAY : 1
+A_ID : 3 C_ID : 1237 T_ID : 0 RECV_ID : 1  OPERATION : 3 AMOUNT : 791 SIMULATION DAY : 1
+A_ID : 3 C_ID : 1237 T_ID : 0 RECV_ID : 1  OPERATION : 3 AMOUNT : 34 SIMULATION DAY : 1
+A_ID : 1 C_ID : 1234 T_ID : 0 RECV_ID : 5  OPERATION : 3 AMOUNT : 61 SIMULATION DAY : 1
+A_ID : 4 C_ID : 1234 T_ID : 0 RECV_ID : -1  OPERATION : 0 AMOUNT : 915 SIMULATION DAY : 1
+A_ID : 1 C_ID : 1234 T_ID : 0 RECV_ID : -1  OPERATION : 0 AMOUNT : 1506 SIMULATION DAY : 1
+Main completed  Teller join thread 0 having a status of 2
+Main completed  Teller join thread 1 having a status of 2
+Main: program completed. Exiting.
+Customer : 1234 Account : 1 Amount : 1506
+Customer : 1235 Account : 2 Amount : 1715
+Customer : 1237 Account : 3 Amount : 2973
+Customer : 1234 Account : 4 Amount : 915
+Customer : 1239 Account : 5 Amount : 8534
+Customer : 1235 Account : 6 Amount : 6100
